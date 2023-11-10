@@ -4,21 +4,23 @@
 
 ## Table of Contents
 
-- [About the Project](#about-project)
-  - [Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-- [Authors](#authors)
-- [Future Features](#future-features)
-- [Contributing](#contributing)
-- [Show your support](#support)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+- [morse-message-decode](#morse-message-decode)
+  - [Table of Contents](#table-of-contents)
+  - [About the Project ](#about-the-project-)
+  - [Built With ](#built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [Getting Started ](#getting-started-)
+    - [Prerequisites ](#prerequisites-)
+    - [Setup ](#setup-)
+    - [Install ](#install-)
+    - [Usage ](#usage-)
+  - [Authors ](#authors-)
+  - [Future Features ](#future-features-)
+  - [Contributing ](#contributing-)
+  - [Show your support ](#show-your-support-)
+  - [Acknowledgements ](#acknowledgements-)
+  - [License ](#license-)
 
 ## About the Project <a name="about-project"></a>
 
@@ -66,9 +68,23 @@ A Ruby script automates Morse code decryption, simplifying the process. Users in
 
 This project was collaboratively developed by three individuals.
 
-- [Richard Sikaonga](https://github.com/richie1988)
-- [Raphael Miyoyo](https://github.com/rmiyoyo)
-- [Nelly Telli](https://github.com/lily4178993)
+👤 **Richard Sikaonga**
+
+- GitHub: [@richie1988](https://github.com/richie1988)
+- Twitter: [@RichieSikaonga](https://twitter.com/RichieSikaonga)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/richard-sikaonga-039940275)
+
+👤 **Nelly Telli**
+
+- GitHub: [@lily4178993](https://github.com/lily4178993)
+- Medium: [@nellytelli](https://medium.com/@nellytelli)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nellytelli)
+
+👤 **Raphael Miyoyo**
+
+- GitHub: [@rmiyoyo](https://github.com/rmiyoyo)
+- Twitter: [@r_miyoyo](https://twitter.com/r_miyoyo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/raphael-miyoyo)
 
 ## Future Features <a name="future-features"></a>
 
